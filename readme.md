@@ -6,7 +6,8 @@ not a heading
 not a heading
 
 ###bullet points:
-*one 
-*two
-*three
+
+* one 
+* two
+* three
 
